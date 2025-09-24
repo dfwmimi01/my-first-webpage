@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgba(0, 0, 139, 0.829);
+}
+
+.mimi {
+    color: lightgoldenrodyellow;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 100px;
+    width: 1000px;
+    border: solid 6px brown;
+    background-color: rgba(165, 42, 42, 0.671);
+    padding: 100px;
+    margin: auto;
+    border-radius: 50px;
+}
+.m{
+    color: lightpink;
+}
+.i{
+    color: antiquewhite;
+}
+.M{
+    color: aqua;
+}
+.I{
+    color: aquamarine;
+}
+.k{
+color: azure;
+}
+.w{
+    color: orange;
+}
+.o{
+    color: bisque;
+}
+.r{
+    color: blanchedalmond;
+}
+.l{
+    color: skyblue;
+}
+.d{
+    color: lightgreen;
+}
+.button {
+    color: rgba(165, 42, 42, 0.637);
+    text-align: end;
+}
+
+#page {
+    color: lightgrey;
+    text-align: center;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500px;
+
+}
+
+.acc {
+    color: cornsilk;
+    font-size: 50px;
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: 400px;
+}
+h3{
+    color: lightsalmon;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-weight: 300px;
+
+}
+h4{
+    color: lightpink;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 200px;
+    
+}
+img{
+    height: 300px;
+}

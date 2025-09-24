@@ -1,0 +1,50 @@
+body {
+    background-color: lightseagreen;
+    line-height: 1.2;
+    padding: 20px;
+}
+
+.h3 {
+    color: blue;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.mimi {
+    color: saddlebrown;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.h2 {
+    color: goldenrod;
+    font-size: 40px;
+    font-weight: 800px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.h4 {
+    color: darkolivegreen;
+    font-size: 15px;
+    font-style: italic;
+}
+
+.button {
+    color: brown;
+    text-align: end;
+}
+
+img {
+    height: 400px;
+}
+
+#page {
+    color: brown;
+    text-align: center;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500px;
+
+}
